@@ -1,0 +1,9 @@
+# Compilados comuns de C
+*.o
+*.exe
+*.out
+*.obj
+*.dll
+*.pdb
+*.ilk
+*.log
